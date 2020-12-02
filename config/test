@@ -1,0 +1,7 @@
+require '../lib/cat.rb'
+require '../lib/dog.rb'
+require '../lib/owner.rb'
+require 'pry'
+
+Kitty = Cat.new(Kitty, Sam)
+p Kitty
